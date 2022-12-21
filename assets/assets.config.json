@@ -1,0 +1,17 @@
+{
+  "logo.png": {
+    "mime": "image/png"
+  },
+  "home_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow_img.svg": {
+    "mime": "image/svg+xml"
+  },
+  "design line.png": {
+    "mime": "image/png"
+  },
+  "home-hero-img.jpeg": {
+    "mime": "image/jpeg"
+  }
+}

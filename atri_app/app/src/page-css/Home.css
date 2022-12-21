@@ -1,0 +1,138 @@
+.p-Home.main_div {
+position: relative;
+padding-top: 20px;
+margin-left: 152px;
+margin-right: 152px;
+}
+.p-Home.wrapper_nav {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding-top: ;
+width: 100%;
+position: relative;
+}
+.p-Home.nav {
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+column-gap: 30px;
+line-height: 16px;
+font-size: 16px;
+word-wrap: inherit;
+}
+.p-Home.Flex3 {
+display: flex;
+column-gap: 10px;
+}
+.p-Home.home-hero-section {
+display: flex;
+padding-top: 70px;
+padding-bottom: 20px;
+align-items: center;
+justify-content: space-between;
+padding-right: ;
+padding-left: ;
+margin-right: ;
+box-sizing: border-box;
+}
+.p-Home.content {
+display: flex;
+width: 60%;
+padding-top: 100px;
+padding-bottom: 100px;
+margin-top: -50px;
+flex-direction: column;
+}
+.p-Home.button_wrapper {
+display: flex;
+}
+.p-Home.dwld_csv {
+display: flex;
+justify-content: space-between;
+flex-wrap: nowrap;
+align-self: center;
+}
+.p-Home.image {
+display: flex;
+width: 100%;
+}
+.p-Home.Image1 {
+align-self: flex-end;
+}
+.p-Home.about_heading {
+align-self: center;
+font-size: 16px;
+}
+.p-Home.services {
+align-self: center;
+font-size: 16px;
+}
+.p-Home.project {
+align-self: center;
+font-size: 16px;
+}
+.p-Home.blogs {
+font-size: 16px;
+}
+.p-Home.book {
+font-size: 16px;
+}
+.p-Home.arrow {
+;
+}
+.p-Home.TextBox1 {
+align-self: center;
+font-size: 66px;
+}
+.p-Home.small_content {
+font-size: 22px;
+color: #666666;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.p-Home.design_line {
+width: 530px;
+height: 90px;
+}
+.p-Home.book_btn {
+color: #fff;
+background-color: #010408;
+padding-top: 20px;
+padding-left: 30px;
+padding-bottom: 20px;
+padding-right: 30px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #020c15;
+cursor: pointer;
+user-select: none;
+align-self: flex-start;
+}
+.p-Home.TextBox3 {
+width: 150px;
+height: ;
+align-self: center;
+padding-top: ;
+padding-left: 15px;
+font-size: 20px;
+}
+.p-Home.Image4 {
+;
+}
+.p-Home.Image5 {
+width: 120%;
+height: ;
+box-sizing: border-box;
+align-self: flex-start;
+}
+@media screen and (max-width: 991px) {
+	.p-Home.nav.bpt {
+flex-direction: column;
+	}
+}

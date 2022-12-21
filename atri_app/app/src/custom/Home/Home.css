@@ -1,0 +1,51 @@
+body {
+    font-family: Plusjakartadisplay, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+}
+.p-Home.navbar {
+    width: 100%;
+    background-color: transparent;
+    position: relative;
+    background: #dddddd;
+    z-index: 1000;
+}
+.p-Home.services{
+    color:red;
+}
+.p-Home.wrapper_nav {
+    padding-top: 40px;
+    padding-bottom: 0px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 85%;
+    max-width: 1215px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+
+}
+
+.p-Home.nav{
+position: relative;
+    float: right;}
+
+
+
+@media screen and (max-width: 991px){
+.p-Home.wrapper_nav {
+    position: relative;
+    padding-top: 20px;
+}}
