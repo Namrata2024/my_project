@@ -1,8 +1,22 @@
+.p-Home.main_container {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+align-self: center;
+margin-right: ;
+margin-left: ;
+width: 100%;
+}
 .p-Home.main_div {
 position: relative;
 padding-top: 20px;
-margin-left: 152px;
-margin-right: 152px;
+margin-left: ;
+margin-right: ;
+font-family: Plus Jakarta Display;
+font-weight: ;
+width: 85%;
+display: block;
 }
 .p-Home.wrapper_nav {
 display: flex;
@@ -20,12 +34,14 @@ column-gap: 30px;
 line-height: 16px;
 font-size: 16px;
 word-wrap: inherit;
+font-family: Plus Jakarta Display;
+font-weight: 500;
 }
 .p-Home.Flex3 {
 display: flex;
 column-gap: 10px;
 }
-.p-Home.home-hero-section {
+.p-Home.home_hero_section {
 display: flex;
 padding-top: 70px;
 padding-bottom: 20px;
@@ -35,6 +51,7 @@ padding-right: ;
 padding-left: ;
 margin-right: ;
 box-sizing: border-box;
+flex-wrap: wrap;
 }
 .p-Home.content {
 display: flex;
@@ -43,9 +60,12 @@ padding-top: 100px;
 padding-bottom: 100px;
 margin-top: -50px;
 flex-direction: column;
+font-family: Plus Jakarta Display;
+font-weight: 400;
 }
 .p-Home.button_wrapper {
 display: flex;
+margin-top: 10px;
 }
 .p-Home.dwld_csv {
 display: flex;
@@ -53,9 +73,139 @@ justify-content: space-between;
 flex-wrap: nowrap;
 align-self: center;
 }
-.p-Home.image {
+.p-Home.Div2 {
+width: 40%;
+align-self: center;
+flex-grow: 1;
+box-sizing: border-box;
+display: block;
+}
+.p-Home.trusted_by {
 display: flex;
+flex-direction: column;
+padding-top: 80px;
+padding-bottom: 80px;
+}
+.p-Home.Trusted_by_heading {
+display: flex;
+align-items: center;
+justify-content: center;
 width: 100%;
+}
+.p-Home.Flex_trust {
+display: flex;
+}
+.p-Home.Flex14 {
+display: flex;
+align-items: center;
+justify-content: center;
+align-content: center;
+column-gap: 10%;
+width: 100%;
+row-gap: 5%;
+box-sizing: border-box;
+overflow: visible;
+margin-top: 40px;
+}
+.p-Home.service_wrapper {
+display: flex;
+flex-direction: column;
+padding-top: 80px;
+margin-bottom: 80px;
+}
+.p-Home.service_text2 {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+column-gap: 90px;
+flex-wrap: nowrap;
+align-content: center;
+}
+.p-Home.Div3 {
+width: 30%;
+}
+.p-Home.Flex18 {
+display: flex;
+justify-content: flex-start;
+width: 90%;
+align-items: center;
+column-gap: 5px;
+margin-top: ;
+padding-top: ;
+}
+.p-Home.Flex19 {
+display: flex;
+justify-content: center;
+width: 90%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Flex20 {
+display: flex;
+justify-content: flex-start;
+width: 85%;
+align-items: center;
+column-gap: 5px;
+align-content: center;
+margin-top: ;
+}
+.p-Home.Div4 {
+width: 31%;
+margin-bottom: ;
+padding-bottom: ;
+}
+.p-Home.Flex21 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Flex22 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Flex23 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Div5 {
+width: 30%;
+align-self: auto;
+}
+.p-Home.Flex24 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Flex25 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.Flex26 {
+display: flex;
+justify-content: flex-start;
+width: 70%;
+align-items: center;
+column-gap: 5px;
+}
+.p-Home.service_text1 {
+display: flex;
+align-items: center;
+justify-content: center;
+align-content: center;
+flex-direction: column;
 }
 .p-Home.Image1 {
 align-self: flex-end;
@@ -84,12 +234,26 @@ font-size: 16px;
 .p-Home.TextBox1 {
 align-self: center;
 font-size: 66px;
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: justify;
+line-height: 110%;
+margin-bottom: 10px;
 }
 .p-Home.small_content {
 font-size: 22px;
 color: #666666;
-padding-top: 15px;
-padding-bottom: 15px;
+padding-top: ;
+padding-bottom: 10px;
+font-family: Plus Jakarta Display;
+font-weight: 300;
+text-align: left;
+line-height: 33px;
+height: ;
+width: ;
+margin-bottom: 10px;
+box-sizing: border-box;
+position: relative;
 }
 .p-Home.design_line {
 width: 530px;
@@ -115,24 +279,239 @@ user-select: none;
 align-self: flex-start;
 }
 .p-Home.TextBox3 {
-width: 150px;
+width: ;
 height: ;
 align-self: center;
 padding-top: ;
 padding-left: 15px;
 font-size: 20px;
+font-family: Plus Jakarta Display;
+font-weight: 700;
 }
 .p-Home.Image4 {
 ;
 }
 .p-Home.Image5 {
-width: 120%;
+width: 100%;
 height: ;
 box-sizing: border-box;
 align-self: flex-start;
+margin-left: 10px;
+}
+.p-Home.trusted_by_text {
+font-family: Plus Jakarta Display;
+font-weight: 400;
+line-height: 100%;
+font-size: 18px;
+color: #2a2727ff;
+position: relative;
+margin-bottom: 15px;
+}
+.p-Home.Image {
+width: 150px;
+height: 32px;
+}
+.p-Home.Image7 {
+width: 150px;
+height: 32px;
+}
+.p-Home.Image3 {
+width: 150px;
+height: 32px;
+}
+.p-Home.Image9 {
+align-self: center;
+width: 150px;
+height: 32px;
+}
+.p-Home.s1 {
+padding-bottom: ;
+}
+.p-Home.TextBox6 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+margin-top: 30px;
+}
+.p-Home.TextBox9 {
+padding-top: 20px;
+font-family: Plus Jakarta Display;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #666f;
+width: 85%;
+margin-bottom: 25px;
+}
+.p-Home.TextBox16 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 15px;
+}
+.p-Home.TextBox17 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 15px;
+width: 300px;
+align-self: flex-start;
+height: ;
+padding-left: 2px;
+}
+.p-Home.TextBox18 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+padding-top: ;
+width: 300xppx;
+}
+.p-Home.s2 {
+margin-bottom: ;
+padding-bottom: ;
+}
+.p-Home.TextBox12 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+margin-top: 10px;
+width: 280px;
+}
+.p-Home.TextBox14 {
+padding-top: 20px;
+font-family: Plus Jakarta Display;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #666f;
+width: 85%;
+margin-bottom: 25px;
+}
+.p-Home.TextBox19 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+align-self: flex-start;
+}
+.p-Home.TextBox20 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+}
+.p-Home.TextBox21 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+}
+.p-Home.Image13 {
+;
+}
+.p-Home.TextBox13 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+margin-top: 28px;
+}
+.p-Home.TextBox15 {
+padding-top: 20px;
+font-family: Plus Jakarta Display;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+color: #666f;
+width: 85%;
+margin-bottom: 25px;
+}
+.p-Home.TextBox22 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+width: 300px;
+height: ;
+}
+.p-Home.TextBox23 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+}
+.p-Home.TextBox24 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+text-align: center;
+line-height: 28px;
+font-size: 16px;
+}
+.p-Home.service_text {
+height: 22px;
+width: 140px;
+}
+.p-Home.s_text1 {
+font-family: Plus Jakarta Display;
+font-weight: 700;
+font-size: 3em;
+line-height: 59px;
+align-self: center;
+width: 80%;
+padding-top: 15px;
+position: relative;
+padding-bottom: 40px;
+height: 20vh;
+text-align: center;
 }
 @media screen and (max-width: 991px) {
 	.p-Home.nav.bpt {
 flex-direction: column;
+	}
+	.p-Home.small_content.bpt {
+width: 25rem;
+height: 8rem;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Home.home_hero_section.bpt {
+flex-direction: column;
+padding-top: 50px;
+width: 100%;
+justify-content: center;
+flex-wrap: wrap;
+	}
+	.p-Home.content.bpt {
+width: 100%;
+align-items: flex-start;
+justify-content: space-between;
+flex-wrap: wrap;
+align-content: center;
+	}
+	.p-Home.button_wrapper.bpt {
+align-items: center;
+justify-content: space-between;
+	}
+	.p-Home.TextBox1.bpt {
+width: 200%;
+height: ;
+font-size: 30px;
+overflow: visible;
+align-self: flex-start;
+	}
+	.p-Home.design_line.bpt {
+align-self: center;
+width: 280%;
 	}
 }

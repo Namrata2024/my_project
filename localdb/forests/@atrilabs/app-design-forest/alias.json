@@ -1,8 +1,10 @@
 {
   "Button": 2,
-  "Flex": 8,
+  "Flex": 26,
   "Link": 8,
-  "Image": 5,
-  "Div": 1,
-  "TextBox": 3
+  "Image": 13,
+  "Div": 5,
+  "TextBox": 24,
+  "UnorderedList": 1,
+  "Icon": 9
 }

@@ -13,5 +13,32 @@
   },
   "home-hero-img.jpeg": {
     "mime": "image/jpeg"
+  },
+  "trust_1.png": {
+    "mime": "image/png"
+  },
+  "trust_2.png": {
+    "mime": "image/png"
+  },
+  "trust_3.png": {
+    "mime": "image/png"
+  },
+  "trust_4.png": {
+    "mime": "image/png"
+  },
+  "service_heading.png": {
+    "mime": "image/png"
+  },
+  "s1.png": {
+    "mime": "image/png"
+  },
+  "s2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "s3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ss1.svg": {
+    "mime": "image/svg+xml"
   }
 }
