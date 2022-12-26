@@ -40,5 +40,95 @@
   },
   "ss1.svg": {
     "mime": "image/svg+xml"
+  },
+  "project_heading.png": {
+    "mime": "image/png"
+  },
+  "case_1.png": {
+    "mime": "image/png"
+  },
+  "c1.png": {
+    "mime": "image/png"
+  },
+  "c2.png": {
+    "mime": "image/png"
+  },
+  "c3.png": {
+    "mime": "image/png"
+  },
+  "case2.png": {
+    "mime": "image/png"
+  },
+  "case3.png": {
+    "mime": "image/png"
+  },
+  "blogs_heading.png": {
+    "mime": "image/png"
+  },
+  "white_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "left_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "product_designer.png": {
+    "mime": "image/png"
+  },
+  "img_abt_1.png": {
+    "mime": "image/png"
+  },
+  "img_abt_2.png": {
+    "mime": "image/png"
+  },
+  "img_abt_3.png": {
+    "mime": "image/png"
+  },
+  "img_abt_4.png": {
+    "mime": "image/png"
+  },
+  "arrow_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testimonials_heading.png": {
+    "mime": "image/png"
+  },
+  "img_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img__.png": {
+    "mime": "image/png"
+  },
+  "white_angular_left.svg": {
+    "mime": "image/svg+xml"
+  },
+  "white angular_right.svg": {
+    "mime": "image/svg+xml"
+  },
+  "faq.png": {
+    "mime": "image/png"
+  },
+  "down arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footer_1.png": {
+    "mime": "image/png"
+  },
+  "white_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email_svg.svg": {
+    "mime": "image/svg+xml"
   }
 }

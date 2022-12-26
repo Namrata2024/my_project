@@ -1,10 +1,11 @@
 {
-  "Button": 2,
-  "Flex": 26,
-  "Link": 8,
-  "Image": 13,
-  "Div": 5,
-  "TextBox": 24,
-  "UnorderedList": 1,
-  "Icon": 9
+  "Button": 3,
+  "Flex": 164,
+  "Link": 10,
+  "Image": 107,
+  "Div": 124,
+  "TextBox": 192,
+  "UnorderedList": 2,
+  "Icon": 10,
+  "Testimonial": 2
 }
